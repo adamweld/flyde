@@ -24,11 +24,12 @@
 }
 
 .sidebar-nav {
-  text-align: center;
+  // text-align: center;
+  text-align: left;
   list-style: none;
   margin-bottom: 2rem;
   margin-top: 2rem;
-  padding-left: 0;
+  padding-left: 1rem;
 }
 
 .sidebar-nav-item {
